@@ -1,0 +1,13 @@
+seed_templates,config,temp,noise,phase,metric,value,accepted_mean
+17,history25_final,0.2,,null_scenario,FPR,0.06,3.708
+17,history25_final,0.5,,null_scenario,FPR,0.052,3.636
+17,history25_final,1.0,,null_scenario,FPR,0.056,3.6
+17,history25_final,0.2,0.1,signal_scenario,TPR,1.0,14.96
+17,history25_final,0.2,0.5,signal_scenario,TPR,0.9866666666666668,12.226666666666668
+17,history25_final,0.2,1.0,signal_scenario,TPR,0.8866666666666667,9.18
+17,history25_final,0.5,0.1,signal_scenario,TPR,1.0,14.88
+17,history25_final,0.5,0.5,signal_scenario,TPR,0.9866666666666668,12.126666666666669
+17,history25_final,0.5,1.0,signal_scenario,TPR,0.8866666666666667,9.153333333333334
+17,history25_final,1.0,0.1,signal_scenario,TPR,1.0,14.793333333333331
+17,history25_final,1.0,0.5,signal_scenario,TPR,0.9933333333333332,11.886666666666668
+17,history25_final,1.0,1.0,signal_scenario,TPR,0.8266666666666667,8.72

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these results, please cite the specific track and file/commit referenced below, not the repository as a whole."
+title: "Echomindre — Tests and Verifications: Three Independent Verification Tracks of the Ontology of Integrity"
+type: dataset
+authors:
+  - family-names: "Запорожець"
+    given-names: "Сергій Володимирович"
+    email: "echomindre.sergio@gmail.com"
+repository-code: "https://github.com/echomindresergio-ops/Ontology_of_Integrity"
+abstract: >
+  An open repository of three independent verification tracks of the
+  Echomindre Ontology of Integrity: Predictive Sociodynamics (ARSP),
+  halo astrophysics without dark matter ("Ether Dynamics"), and a
+  model of attention and memory (Echomindre V5). Includes
+  pre-registered predictions, null tests, negative controls, and a
+  trail of evidence for each track.
+keywords:
+  - ontology of integrity
+  - pre-registration
+  - predictive sociodynamics
+  - dark matter alternative
+  - fast radio bursts
+  - halo model
+  - attention and memory
+  - null hypothesis testing
+license: "MIT"
+date-released: 2026-07-14
